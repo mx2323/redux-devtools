@@ -8,3 +8,5 @@ build
 coverage
 .idea
 .eslintcache
+packages/react-json-tree/package-lock.json
+
